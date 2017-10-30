@@ -11,11 +11,12 @@
 #include <stdio.h>
 struct student
 {
-     char a[5];
-}
+    char a[5];
+};
 
-void main()
+int main()
 {
-     struct student s[] = { "hi", "hey"};
-     printf("%c", s[0].a[1]);
+    struct student s[] = { "hi", "hey"};
+    printf("%c", s[0].a[1]);
+    return 0;
 }
