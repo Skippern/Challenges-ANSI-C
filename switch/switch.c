@@ -7,7 +7,7 @@
 
 int main(){
     int i = 2;
-    switch(1)
+    switch(i)
     {
         case 1:
             printf("Case1 ");
