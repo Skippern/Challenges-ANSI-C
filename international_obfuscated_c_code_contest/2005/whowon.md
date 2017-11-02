@@ -4,9 +4,7 @@
 
 ## **The 18th IOCCC Winners**
 [ [The judges](http://www.ioccc.org/judges.html) | [IOCCC home page](http://www.ioccc.org/main.html) | [How
-to enter](http://www.ioccc.org/main.html#enter) | [FAQ](http://www.ioccc.org/faq.html) |
-
-[IOCCC news](http://www.ioccc.org/main.html#new) | [People who have won](http://www.ioccc.org/winners.html) | [Winning
+to enter](http://www.ioccc.org/main.html#enter) | [FAQ](http://www.ioccc.org/faq.html) | [IOCCC news](http://www.ioccc.org/main.html#new) | [People who have won](http://www.ioccc.org/winners.html) | [Winning
 entries](http://www.ioccc.org/years.html) ]
 
 
