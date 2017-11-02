@@ -4,7 +4,7 @@
 
 ## **The 18th IOCCC Winners**
 [ [The judges](http://www.ioccc.org/judges.html) | [IOCCC home page](http://www.ioccc.org/main.html) | [How
-to enter](http://www.ioccc.org/main.html#enter) | [FAQ](http://www.ioccc.org/faq.html)"> |
+to enter](http://www.ioccc.org/main.html#enter) | [FAQ](http://www.ioccc.org/faq.html) |
 
 [IOCCC news](http://www.ioccc.org/main.html#new) | [People who have won](http://www.ioccc.org/winners.html) | [Winning
 entries](http://www.ioccc.org/years.html) ]
@@ -100,7 +100,7 @@ The winners are,
 > V.Chia - Is it Java or C?
 > Singapore
 
-Copyright (c) 2005, Landon Curt Noll, Simon Cooper, Peter Seebach and
+Copyright :copyright: 2005, Landon Curt Noll, Simon Cooper, Peter Seebach and
 Leonid A. Broukhis. All Rights Reserved.<BR>
 Permission for personal, education or non-profit use is
 granted provided this copyright and notice are included in its entirety
