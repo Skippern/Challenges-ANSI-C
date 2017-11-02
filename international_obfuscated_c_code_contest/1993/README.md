@@ -16,7 +16,7 @@ by the submitters.
 
 Read over the makefile for compile/build issues.  Your system may
 require certain changes (add or remove a library, add or remove a
-#define).
+`#define`).
 
 Name and address information are separated from the actual program
 prior to judging.  This eliminates any chance that we would bias our

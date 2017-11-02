@@ -26,7 +26,7 @@ by the submitters.
 
 Read over the makefile for compile/build issues.  Your system may
 require certain changes (add or remove a library, add or remove a
-#define).
+`#define`).
 
 Some ANSI C compilers are not quite as good as they should be.  If
 yours is lacking, you may need to compile using gcc instead of your

@@ -16,7 +16,7 @@ by the submitters.
 
 Read over the makefile for compile/build issues.  Your system may
 require certain changes (add or remove a library, add or remove a
-#define).  A number of compilers had problems optimizing certain
+`#define`).  A number of compilers had problems optimizing certain
 entries.  Some compilers do optimize, but the resulting program
 does not work.  By default we have left off -O from compile lines.  
 You might want to add -O back, or add it back for certain entries
