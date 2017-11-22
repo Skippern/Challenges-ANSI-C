@@ -6,57 +6,57 @@
 
 Here are the names and categories for the winners of the 24th IOCCC:
 
-- **[Most Well-rounded Hash](hou/README)**
+- **[Most Well-rounded Hash](hou/README.md)**
 
 > Qiming Hou - MD5 without integers
 > CN
 
-- **[Most Different](howe/README)**
+- **[Most Different](howe/README.md)**
 
 > Anthony Howe - diff tool
 > CA
 
-- **[Most Useful](burton/README)**
+- **[Most Useful](burton/README.md)**
 
 > Dave Burton - hex/decimal calculator
 > US
 
-- **[Most Compact](mills2/README)**
+- **[Most Compact](mills2/README.md)**
 
 > Chris Mills - uncompress
 > US
 
-- **[Best Documented](schweikhardt/README)**
+- **[Best Documented](schweikhardt/README.md)**
 
 > Jens Schweikhardt - Collatz bignum computation
 > DE
 
-- **[Best One-liner](endoh4/README)**
+- **[Best One-liner](endoh4/README.md)**
 
 > Yusuke Endoh - visual factorization
 > JP
 
-- **[Most Overlooked Obfuscation](endoh2/README)**
+- **[Most Overlooked Obfuscation](endoh2/README.md)**
 
 > Yusuke Endoh - hidden text quine
 > JP
 
-- **[Most Pointed Reaction](yang/README)**
+- **[Most Pointed Reaction](yang/README.md)**
 
 > Don Yang - text encoder with sea star pattern, varies with C flavor
 > US
 
-- **[Best Handwriting](duble/README)**
+- **[Best Handwriting](duble/README.md)**
 
 > Etienne Duble - handwriting with Braille
 > FR
 
-- **["For the Birds!" Award](mills1/README)**
+- **["For the Birds!" Award](mills1/README.md)**
 
 > Chris Mills - flappy bird
 > US
 
-- **[Most Diffused Reaction](endoh1/README)**
+- **[Most Diffused Reaction](endoh1/README.md)**
 
 > Someone Anonymous - reaction-diffusion system HTTP server
 > JP
@@ -64,17 +64,17 @@ Here are the names and categories for the winners of the 24th IOCCC:
 > Yusuke Endoh - reaction-diffusion system HTTP server
 > JP
 
-- **[Most Crafty](dogon/README)**
+- **[Most Crafty](dogon/README.md)**
 
 > Gil Dogon - X11 Minecraft demo
 > IL
 
-- **[Back to the Future Award](endoh3/README)**
+- **[Back to the Future Award](endoh3/README.md)**
 
 > Yusuke Endoh - 1984/mullender emulator
 > JP
 
-- **[Most Complete Use of CPP](muth/README)**
+- **[Most Complete Use of CPP](muth/README.md)**
 
 > Dominik Muth - preprocessor Turing engine
 > DE
