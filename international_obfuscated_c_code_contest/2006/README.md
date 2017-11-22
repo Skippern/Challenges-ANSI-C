@@ -1,81 +1,93 @@
-2006 marked the "The Nineteenth International Obfuscated C Code Contest"
-========================================================================
+![IOCCC](http://ioccc.org/png/ioccc.png)
+### *The International Obfuscated C Code Contest*
 
-Copyright (C) 2006, Landon Curt Noll, Simon Cooper, and Leonid A.
-Broukhis. All Rights Reserved. Permission for personal, educational
-or non-profit use is granted provided this copyright and notice are
-included in its entirety and remains unaltered.  All other uses
-must receive prior permission from the contest judges.
+## **The 19th IOCCC Winners**
+
+[ [The judges](http://ioccc.org/judges.html) | [IOCCC home page](http://ioccc.org/main.html) | [How to enter](http://ioccc.org/main.html#enter) | [FAQ](http://ioccc.org/faq.html) | [IOCCC news](http://ioccc.org/main.html#new) | [People who have won](http://ioccc.org/winners.html) | [Winning entries](http://ioccc.org/years.html) ]
+
+Here are the names and categories for the winners of the 19th
+IOCCC.  The source code has not been released yet.  The winners have
+been notified by EMail.  They have been given a chance to review the
+write-up of their entry.  The source code 
+will be made available on the [winning entries](http://ioccc.org/years.html) web page.  We anticipate that this will be in mid-December.
+
+The winners are,
+
+- **Best of Show**
+
+> Oscar Toledo- Intel 8080 emulator
+> Mexico
+
+- **Best Abuse of Computation**
+
+> Christopher Night - Maze puzzle generator
+> USA
+
+- **Best Assembler**
+
+> Stephen Sykes - Bedlam Cube solver
+> Finland
+
+- **Best Compiled Graphics**
+
+> Maurizio Monge - Fractal generator with real-time zoom
+> Italy
+
+- **Best Computed Graphics**
+
+> Thomas Stewart - Iterated Function System
+> USA
+
+- **Best Game**
+
+> Raphael Meyer - Sudoku-based game for two players
+> ???
+
+- **Best One-liner**
+
+> Stephen Sykes - Digital clock
+> Finland
+
+- **Best Small Program**
+
+> Oscar Toledo - Knight's tour
+> Mexico
+
+- **EDAMAME `(Electronic Design Automation - Mechanical Astract Machine Emulator)` Award**
+
+> Michael Birken - Relay Circuit Simulator
+> ???
+
+- **Homer's Favorite**
+
+> Andy Sloane - Mmmm... ASCII-rendered rolling donut...[drools]
+> USA
+
+- **Most Irrational**
+
+> Steinar Hamre - Rational  number calculator
+> Norway
+
+- **Most Obfuscated Audio**
+
+> Aaron Grothe - Shortwave signal generator
+> USA
+
+- **Most Portable Chess Set**
+
+> Oscar Toledo - X11/Windows chess program
+> Mexico
+
+- **Most Useful**
+
+> Szabolcs Borsanyi - Email address to GIF converter
+> United Kingdom
 
 
-Standard IOCCC stuff
---------------------
-
-The IOCCC has a web site and now has a number of international mirrors.
-The primary site can be found at,
-
->	<http://www.ioccc.org/>
-
-Use make to compile entries.  It is possible that on non-Un*x / non-Linux
-systems the makefile needs to be changed.  See the Makefile for details.
-
-Look at the source and try to figure out what the programs do, and run
-them with various inputs.  If you want to, look at the hints files for
-spoilers - this year we included most of the information included
-by the submitters.
-
-Read over the makefile for compile/build issues.  Your system may require
-certain changes (add or remove a library, add or remove a #define).
-
-Some ANSI C compilers are not quite as good as they should be.  If
-yours is lacking, you may need to compile using gcc instead of your
-local compiler.
-
-
-Remarks on some of the entries
-------------------------------
-
-There were some outstanding entries that did not win.  Unfortunately
-some very good entries lost because they:
-
-+ depended too much on non-portable side effects in expressions;
-
-+ depended too much on a particular byte order;
-
-+ required the use of a special script, data file or pseudo-machine
-  language that was not supplied with the entry.
-
-We hope the authors of some of those entries will fix and re-submit
-them for the next IOCCC.
-
-We believe you will be impressed with this year's winners. The Best
-of Show is a fine example of (retro) obfuscation.  But don't ignore the other
-winners!  There are games, puzzles, puzzle solvers, simulators, emulators,
-calculators and graphical and audio tools.
-
-This year a single person won three awards and another two awards!  Many
-winners won for the first time. (Please note that judging is done completely
-anonymously.  Be warned that we may disqualify entries that reveal the identity
-of the submitter).
-
-Final Comments
---------------
-
-Please feel free to send us comments and suggestions about the
-competition, this README or anything else that you would like to see in
-future contests.
-
-If you use, distribute or publish these entries in some way, please drop
-us a line.  We enjoy seeing who, where and how the contest is used.
-
-If you have problems with any of the entries, AND YOU HAVE A FIX, please
-send us the fix (patch file or the entire changed file).
-
-For the latest information on how to contact the IOCCC Judges please visit
-
->	<http://www.ioccc.org/contact.html>
-
-For news of the next contest watch:
-
->	<http://www.ioccc.org/>
+Copyright :copyright: 2007, Landon Curt Noll, Simon Cooper, Peter Seebach and
+Leonid A. Broukhis. All Rights Reserved.
+Permission for personal, education or non-profit use is
+granted provided this copyright and notice are included in its entirety
+and remains unaltered.  All other uses must receive prior permission in writing
+from the [contest judges](http://ioccc.org/judges.html).
 

@@ -1,110 +1,107 @@
-2005 marked the "The Eighteenth International Obfuscated C Code Contest"
-========================================================================
+![IOCCC](http://ioccc.org/png/ioccc.png)
 
-Copyright (C) 2005, Landon Curt Noll, Simon Cooper, and Leonid A.
-Broukhis. All Rights Reserved. Permission for personal, educational
-or non-profit use is granted provided this copyright and notice are
-included in its entirety and remains unaltered.  All other uses
-must receive prior permission from the contest judges.
+### *The International Obfuscated C Code Contest*
 
-
-Standard IOCCC stuff
---------------------
-
-The IOCCC has a web site and now has a number of international mirrors.
-The primary site can be found at,
-
->	<http://www.ioccc.org/>
-
-Use make to compile entries.  It is possible that on non-Un*x / non-Linux
-systems the makefile needs to be changed.  See the Makefile for details.
-
-Look at the source and try to figure out what the programs do, and run
-them with various inputs.  If you want to, look at the hints files for
-spoilers - this year we included most of the information included
-by the submitters.
-
-Read over the makefile for compile/build issues.  Your system may require
-certain changes (add or remove a library, add or remove a #define).
-
-Some ANSI C compilers are not quite as good as they should be.  If
-yours is lacking, you may need to compile using gcc instead of your
-local compiler.
+## **The 18th IOCCC Winners**
+[ [The judges](http://www.ioccc.org/judges.html) | [IOCCC home page](http://www.ioccc.org/main.html) | [How
+to enter](http://www.ioccc.org/main.html#enter) | [FAQ](http://www.ioccc.org/faq.html) | [IOCCC news](http://www.ioccc.org/main.html#new) | [People who have won](http://www.ioccc.org/winners.html) | [Winning
+entries](http://www.ioccc.org/years.html) ]
 
 
-Remarks on some of the entries
-------------------------------
 
-There were some outstanding entries that did not win.  Unfortunately
-some very good entries lost because they:
+Here are the names and categories for the winners of the 18th
+IOCCC.  The source code has not been released yet.  The winners will
+be notified by EMail soon.  They will be given a chance to review the
+write-up of their entry.  Once this process is complete the source code 
+will be made available on the [winning entries](http://www.ioccc.org/years.html)
+web page.  We anticipate that this will be in mid-December.
 
-+ depended too much on non-portable side effects in expressions;
+The winners are,
 
-+ depended too much on a particular byte order;
+- **Best of Show**
 
-+ required the use of a special script, data file or pseudo-machine
-  language that was not supplied with the entry.
-
-We hope the authors of some of those entries will fix and re-submit
-them for the next IOCCC.
-
-We believe you will be impressed with this year's winners.
-
-In particular:
-
-+ The Abuse of the rules used local dictionary data to get around the
-size limit.
-
-+ The Most beauteous visuals made cleaver use of {}'s and whitespace in their source code and during execution.
-
-+ The most circuitous walk entry is just amazing.
-
-+ The Best game makes full use of its single function.
-
-+ The Best emulator may allow you to re-connect to your first PET.
-
-+ Our Best of Show this year was simply (or non-simply) the best!
-
-+ (And we need only mention (parenthetically speaking) that the the best use of parenthesis is self re-producing).
-
-+ The most sonorous output might sound like a good idea.
-
-+ The Best 2D puzzle takes editorial license with expressions as well as the
-with the vi editor.
-
-+ The Most ambiguous language winner is really a C program.
-
-+ The superfluous output winner is simply Voronoilific!
-
-+ Try not to have your sense of good coding offended by the Most
-discourteous interpreter winner.
-
-+ The Best use of the www doesn't include those letters
-
-+ You will be puzzled by Best 3D puzzle winner, we are sure!
-
-+ The Most ingenious puzzle solution might puzzle you more while it
-puzzles out some puzzles: all in a puzzling way!  :-)
+> Mauro Persano - Animated GIF of rotating torus knots
+> Country unknown
 
 
-Final Comments
---------------
+> [sample (2.5 Mb)](http://www.mailcom.com.nyud.net:8090/ioccc/knot.gif)
 
-Please feel free to send us comments and suggestions about the
-competition, this README or anything else that you would like to see in
-future contests.
+- **Best Emulator**
 
-If you use, distribute or publish these entries in some way, please drop
-us a line.  We enjoy seeing who, where and how the contest is used.
+> Stephen Sykes - Commodore PET emulator
+> Helsinki, Finland
 
-If you have problems with any of the entries, AND YOU HAVE A FIX, please
-send us the fix (patch file or the entire changed file).
+- **Best 2D puzzle**
 
-For the latest information on how to contact the IOCCC Judges please visit
+> Gil Dogon - Block moving puzzle solver
+> Jerusalem, Israel
 
->	<http://www.ioccc.org/contact.html>
+- **Most circuitous walk**
 
-For news of the next contest watch:
+> Daniel Vik - X Windows 3D maze renderer
+> La Jolla, CA USA
 
->	<http://www.ioccc.org/>
+- **Best Game**
+
+> Oscar G. Toledo - Chess program
+> Mexico
+
+- **Most superfluous output**
+
+> Francois Boutines - XML Voronoi diagrams generator
+> Toulouse, France
+
+> [screenshot](http://www.mailcom.com/ioccc/voronoi.png)
+
+- **Most sonorous output**
+
+> Jetro Lauha - Sound generation with SDL audio
+> Helsinki, Finland
+
+- **Best 3D puzzle**
+
+> Anonymous - Block shuffling 3D puzzle
+>Debian
+
+- **Best use of the WWW**
+
+> Anthony Howe - Text WWW browser
+> Cannes, France
+
+- **Most discourteous interpreter**
+
+> Arne "Timwi" Heizmann - Brainfuck interpreter
+> Cambridge, United Kingdom
+
+- **Abuse of the rules**
+
+> Peter Klausler - Anagram generator
+> Minneapolis, MN USA
+
+- **Most beauteous visuals**
+
+> Vincent Weaver - OpenGL demo
+> Ithaca, NY USA
+
+- **Most ingenious puzzle solution**
+
+> Aidan Thornton - Sudoku solver and generator
+> United Kingdom
+
+- **Best use of parenthesis**
+
+> Michael Ash - Self-printing LISP interpreter
+> USA
+
+- **Most ambiguous language**
+
+> V.Chia - Is it Java or C?
+> Singapore
+
+Copyright :copyright: 2005, Landon Curt Noll, Simon Cooper, Peter Seebach and
+Leonid A. Broukhis. All Rights Reserved.<BR>
+Permission for personal, education or non-profit use is
+granted provided this copyright and notice are included in its entirety
+and remains unaltered.  All other uses must receive prior permission in writing
+from the [contest judges](http://www.ioccc.org/judges.html).
 
